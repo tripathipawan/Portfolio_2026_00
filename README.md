@@ -1,6 +1,6 @@
-# Harsh Goyal — Portfolio
+# Pawan Tripathi — Portfolio
 
-A production-ready premium personal portfolio website for **Harsh Goyal** — Web Developer & UI/UX Designer.
+A production-ready premium personal portfolio website for **Pawan Tripathi** — Web Developer & UI/UX Designer.
 
 Cinematic, immersive digital workspace aesthetic inspired by [Forged.build](https://forged.build).
 
@@ -31,7 +31,7 @@ Cinematic, immersive digital workspace aesthetic inspired by [Forged.build](http
 
 ```bash
 # Clone the repo
-git clone https://github.com/harshgoyal27/portfolio.git
+git clone https://github.com/tripathipawan/Portfolio_2026_00/
 cd portfolio
 
 # Install dependencies
@@ -197,4 +197,4 @@ public/
 
 MIT — feel free to use as a template. Attribution appreciated but not required.
 
-Built by Harsh Goyal.
+Built by Pawan Tripathi.
