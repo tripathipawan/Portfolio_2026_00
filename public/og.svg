@@ -1,0 +1,33 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050505"/>
+  <!-- Grid -->
+  <defs>
+    <pattern id="grid" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#F37512" stroke-width="0.4" stroke-opacity="0.12"/>
+    </pattern>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="0.7"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <!-- Ember orb -->
+  <ellipse cx="900" cy="315" rx="300" ry="300" fill="#F37512" fill-opacity="0.06" filter="blur(80px)"/>
+  <!-- Vignette -->
+  <rect width="1200" height="630" fill="url(#vignette)"/>
+  <!-- Diamond -->
+  <rect x="92" y="56" width="32" height="32" fill="none" stroke="#F37512" stroke-width="1.5" transform="rotate(45 108 72)"/>
+  <rect x="100" y="64" width="16" height="16" fill="#F37512" transform="rotate(45 108 72)"/>
+  <!-- Name -->
+  <text x="100" y="310" font-family="Georgia, serif" font-size="88" font-weight="700" fill="#F2F2EC" letter-spacing="-2">Harsh</text>
+  <text x="100" y="400" font-family="Georgia, serif" font-size="88" font-weight="700" fill="#F37512" font-style="italic" letter-spacing="-2">Goyal</text>
+  <!-- Role -->
+  <text x="102" y="450" font-family="Courier New, monospace" font-size="16" fill="#888888" letter-spacing="4">WEB DEVELOPER &amp; UI/UX DESIGNER</text>
+  <!-- Separator line -->
+  <rect x="100" y="280" width="40" height="1" fill="#F37512"/>
+  <!-- Status -->
+  <circle cx="106" cy="500" r="4" fill="#4ade80"/>
+  <text x="118" y="505" font-family="Courier New, monospace" font-size="12" fill="#888888" letter-spacing="3">OPEN TO COLLABORATIONS</text>
+  <!-- NSUT / PW -->
+  <text x="900" y="580" font-family="Courier New, monospace" font-size="12" fill="#555555" letter-spacing="2" text-anchor="middle">NSUT · PHYSICSWALLAH · 2024</text>
+</svg>
